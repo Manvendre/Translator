@@ -36,3 +36,5 @@ def hello_world():
         os.remove("welcome.mp3")
 
     return render_template("index.html")
+
+app.run(debug=True)
