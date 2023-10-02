@@ -31,3 +31,5 @@ vext==0.7.6
 vext.gi==0.6.8
 pygobject==3.42.1
 Werkzeug==2.2.2
+sudo apt install libgirepository1.0-dev
+
